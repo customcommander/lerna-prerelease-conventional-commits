@@ -48,4 +48,4 @@ echo "
   To start afresh, exit the container and run 'run.sh' again ;)
 "
 
-docker run -it --rm --mount type=bind,src=$PWD,dst=/example -w /example lerna-prerelease-conventional-commits sh
+docker run -it --rm --mount type=bind,src=$PWD,dst=/example -w /example lerna-prerelease-conventional-commits
