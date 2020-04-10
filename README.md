@@ -5,6 +5,8 @@ according to the ["Conventional Commits" specification][cc-spec].
 
 Whether this is a bug or by design is unknown at this stage. However the thread in this [issue][gh-issue] seems to suggest that it is a bug.
 
+See my [question on Stack Overflow][so-question].
+
 ## Minimal Reproducible Example
 
 
@@ -69,3 +71,4 @@ Changes:
 
 [cc-spec]: https://www.conventionalcommits.org/
 [gh-issue]: https://github.com/lerna/lerna/issues/1433
+[so-question]: https://stackoverflow.com/q/61144530/1244884
